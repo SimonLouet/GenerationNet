@@ -1,0 +1,12 @@
+C:\Users\slam\source\repos\generationnet\generationnet\bin\Debug\generationnet.exe.config
+C:\Users\slam\source\repos\generationnet\generationnet\bin\Debug\generationnet.exe
+C:\Users\slam\source\repos\generationnet\generationnet\bin\Debug\generationnet.pdb
+C:\Users\slam\source\repos\generationnet\generationnet\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.csprojAssemblyReference.cache
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.Form1.resources
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.Properties.Resources.resources
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.csproj.GenerateResource.cache
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.csproj.CoreCompileInputs.cache
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.csproj.CopyComplete
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.exe
+C:\Users\slam\source\repos\generationnet\generationnet\obj\Debug\generationnet.pdb
